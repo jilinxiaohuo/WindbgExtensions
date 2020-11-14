@@ -1,2 +1,2 @@
-# WindbgExtends
-windbg extends
+# WindbgExtensions
+windbg extendsions
