@@ -1,2 +1,2 @@
 # WindbgExtensions
-windbg extendsions
+windbg extensions
